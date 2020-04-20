@@ -5,7 +5,7 @@
 | Yearly cost | £79 - £239 | £139 (£89 renewal) |
 | OS | iOS | iOS / Android / Windoze |
 | Number of devices | 3 | 2 |
-| Coverage | Worldwide | Europe |
+| Coverage | [Link](https://support.foreflight.com/hc/en-us/articles/115013648267-Will-ForeFlight-work-in-my-country-) | [Link](https://www.skydemon.aero/countries/) |
 | Graphical Notams | √ | √ |
 | Cloud syncronisation | √ | √ |
 | Documents | Dropbox/S3 | Skydemon |
