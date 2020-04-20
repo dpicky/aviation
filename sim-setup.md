@@ -15,4 +15,4 @@
 - [X-Camera](https://www.stickandrudderstudios.com/x-camera/)
 - [Pilotedge](https://www.pilotedge.net)
 
-*Picture coming soon*
+![Sim](sim.png)
