@@ -1,0 +1,24 @@
+# Distance IR training
+Having had and PPL with an IR(R) for many years, I've been aspiring to get my full Instrument Rating.  I've been putting off for some time, mainly due to the exams.  For the EASA CBIR there is 7 exams.  Now on the wrong side of 50, my memory isn't as good as it used to be and studying for exams has never been my thing.  I therefore decided to go down the FAA IR route.  One exam and I could also do an accelerated course and tie in with a trip and some sunshine in the US.  I can convert to an EASA when I get back to UK provided I've got 50 hours PIC instrument time.  I've nearly got enough from my IR(R) and can top up in the US after getting my rating.  I had booked a slot for my exam in LA along with flights in March.  I was all excited and getting prepared then bam, Covid-19 strikes and the whole world comes to a standstill with everything on hold for the foreseeable future.
+
+About six months I put together an ameteaur flight simulator in my office and used it to practice procedures etc. in my spare time.  As the Government announced a lock down instructing people to stay and work at home I decided to move the simulator home and placed in the spare bedroom which has now become my man cave!
+
+I still had work to do but not as much so that gave me the opportunity to do some more practice.  I had been using a service called pilotedge.net which gives you an immersive ATC experience by providing real controllers, giving real instructions and real bollockings!  They have some of there own ratings (www.pilotedge.net/pages/i-ratings) where you could do instrument flights, procedures, sids and stars etc.  It’s a US service but as I was potentially going the FAA route it would be helpful.
+
+However, I was worried about picking up bad habits or perhaps focusing on the wrong thing and then’s when I thought I should reach out to my friends and peers on pplir.org which is a great community of instrument rated pilots around Europe.  I asked if anyone wanted to try hooking up Sims, specifically X-Plane and giving me some online training.  The legend that is Timothy Nathan rose to the challenge and here is where journey truelly began.  I'd previously had some brief training from Timothy on his sim which also inspired me to splash out on the (expensive) Brunner Yoke.
+
+## Session 1 (29th March) Basics of Instrument Flying
+X-Plane has a massive community and plugin to do almost anything but having researched the community forums for a long time couldn't find an established method to enable remote instruction.  The closest thing I could find was sky4crew.com/smartcopilot/ It's a paid for product which I didn't mind paying for if it worked.
+
+Timothy and I hooked up over WhatsApp video and started messing around with Smart Copilot.  We spent about 45 mins but it just wasn't working.  Through tinkering around we then settled on using the inbuilt X-Plane feature of supporting multi-displays / machines.  This allows a copy of X-Plane to become a slave to another copy over the network either showing what is on the master screen or an independant view.  I was the master and Timothy was the slave.  This was only in X-Plane terms with everything else being the reverse!  We went for the independant view and that meant Timothy could see what he wanted on his screen, but I'd be driving the controls, position, weather etc.
+
+After a few mismatches in scenery we got it all working.  I could fly around to my hearts content and Timothy could sit back and sigh at all my flying flaws (that he was going to fix!).  This is when the training truly commenced.
+
+Over WhatsApp video he ran through the basics of instrument flying and introduced me to the scan.  We then went over to the sim where I used the scan technique to do some straight and level flying followed by some turns.  Previously I would fixate over certain instruments and be all over the place but after putting into place what I was shown was soon flying like a true IR pilot.
+
+After we finished our session I went away and did some practice as was finding it a revelation.  It was easier, less tiring and far more accurate than my previous flying.  Looks like online training could work and become the future of training!
+
+## Session 2 (31st March) Straight and level, turns and climbs
+We kicked it off again with a WhatsApp video call and then attempted to hook up our X-Plane's.  After a few restarts and tinkering we found the whole thing is delecate and temperamental.  It appears my IP address changes frequently meaning Timothy has to update his settings.  It's improving though and peserverence is the key here.
+
+Once into our stride it was more practice on flying on instruments and mainting the scan.  Lots of straight and level, climbs, descents and combinations of all three.
