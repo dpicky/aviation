@@ -29,3 +29,20 @@ Usual quick catchup on Zoom with Timothy introducing me to the excelent [PBN Man
 We then moved on to utilising the GTN750 for approaches.  I was very comfortable with this having spent a lot of time previously playing with it, however still learnt lots of tips.
 
 Over on the sim we did the LOC 23 approach into cambridge.
+
+## Session 12 (22nd April)
+
+## Session 13 (24th April)
+
+## Session 14 (26th April)
+
+## Session 15 (28th April)
+Connected up on Zoom and Parsec and jumped straight into the day's mission, which was to shoot some RNAV approachs at Guernsey using the GTN750.  Wind was set at 210/30 (2000') and 180/15 (surface) so runway 27 was opted.  Cloud base set to 250' and RVR 550m.  I briefed myself and Timothy on the approach missing a few things and learning a few more.  Everyone I do a briefing I seem to learn more but it gets easier.  Big change today was the introduction of ATC where Timothy would play the multiple roles of instructor, motivator, controller and critic.
+
+Loaded up frequencies and approach into GTN and cross checked waypoints with plate.  Struggled with putting in ATIS and learn't that some COM frequencies are not in the standard range of the COM box and therefore had to put in NAV.  Never come across this in 20 years of flying, which was the bigger shock.
+
+Over to the sim and shocked at how little I could see of the runway in the low RVR.  Took off and climbed to 2000' turning south until about 5 miles SW of the airport.  Activated the approach and then headed to AMIBA IAF.  Performed the approach with ATC and then executed the missed approach.  Didn't do great on either the ATC or the flying but was safe.  Missed approach didn't go too great either and got to the point of saturation.  Got wrong altitude and missed a turn instruction from the GTN.  Original plan was to enter the hold but messed up so decided to execute the procedure at OTMIS.  All the while ATC (Timothy) was throwing in lots of RVRs which were below minimums so we talked about what I'd do in the real world.  After some help from Timothy and ATC I got weather from St Malo which was acceptable and then coordinated with ATC heading into there.
+
+We stopped at that point to have a quick debrief about correct terminology on approaches which hasn't completely sunk in but hopefully will over time.
+
+All in all today was very hard but extremely enjoyable.  I still easily get to the point of saturation but I feel I'm improving with practice.  Still lots to take in but slowly getting there.
